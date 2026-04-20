@@ -288,6 +288,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
     - [All Contributors](#all-contributors)
   - [Star History](#star-history)
   - [License](#license)
+- [academic_website](#academic_website)
 
 <!--te-->
 
