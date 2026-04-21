@@ -23,6 +23,27 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
+        },{id: "nav-awards",
+          title: "awards",
+          description: "fellowships, honors, and recognitions",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
+          },
+        },{id: "nav-services",
+          title: "services",
+          description: "academic and community service",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/services/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "teaching assistantships, guest lectures, and instructional experience",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "Curriculum vitae. A PDF version is available at the top of the page.",
