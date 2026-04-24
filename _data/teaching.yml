@@ -7,16 +7,16 @@
 #     - items: List of specific items (col1, col2 [, col3], optional comment)
 
 - school: "@ Georgia Institute of Technology | Atlanta, GA, USA"
-- logo: /assets/images/logowseal-RGB.png
-- experiences:
+  logo: /assets/images/logowseal-RGB.png
+  experiences:
     - title: "Instructor"
       items:
         - col1: "Summer 2026"
           col2: "ISyE 4600 - Methods and Applications of Machine Learning"
 
 - school: "@ University of Cincinnati | Cincinnati, OH, USA"
-- logo: /assets/images/University-of-Cincinnati-Logo.png
-- experiences:
+  logo: /assets/images/University-of-Cincinnati-Logo.png
+  experiences:
     - title: "Coding Mentor, Google Ignite CS — Bearcat Coders"
       items:
         - col1: "Aug 2015 – Dec 2016"
